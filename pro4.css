@@ -1,0 +1,10 @@
+img {
+    width: 25%;
+    height: 25%;
+}
+.img_girl {
+    text-align: center;
+}
+img {
+    border-radius: 50%;
+}
